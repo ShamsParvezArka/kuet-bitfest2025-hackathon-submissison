@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles.css">
+    <title>Chatbot</title>
+</head>
+<body>
+    <h1>item Chatbot</h1>
+
+    <div id="app-container">
+        <div id="chat-window">
+            <div id="chat-messages"></div>
+        </div>
+        <div id="input-container">
+            <textarea id="user-input" placeholder="Type your message..."></textarea>
+            <button id="send-button">Send</button>
+        </div>
+    </div>
+
+    <script>
+        const chatMessages = document.getElementById('chat-messages');
+        const userInput = document.getElementById('user-input');
+        const sendButton = document.getElementById('send-button');
+
+        sendButton.addEventListener('click', async () => {
+            const userMessage = userInput.value;
+            if (!userMessage) return;
+
+            // Append user message to chat
+            chatMessages.innerHTML += `<div class='message user'>${userMessage}</div>`;
+            userInput.value = '';
+
+            try {
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ user_input: userMessage })
+                });
+                const data = await response.json();
+                const botResponse = data.bot_response || "An error occurred.";
+                chatMessages.innerHTML += `<div class='message bot'>${botResponse}</div>`;
+
+                // Scroll to the latest message
+                chatMessages.scrollTop = chatMessages.scrollHeight;
+            } catch (error) {
+                chatMessages.innerHTML += `<div class='message bot'>Error: ${error.message}</div>`;
+            }
+        });
+    </script>
+</body>
+</html>
+

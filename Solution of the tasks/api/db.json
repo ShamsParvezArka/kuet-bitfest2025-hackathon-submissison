@@ -1,0 +1,1465 @@
+{
+    "recipes": [
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "procedure": "Boil spaghetti. Cook pancetta in a pan. Mix eggs and Parmesan. Combine spaghetti, pancetta, and egg mixture. Serve with pepper and Parmesan.",
+            "taste": "Savory and creamy",
+            "duration": "25 minutes",
+            "cuisine_type": "Italian",
+            "ingredients": [
+                "Spaghetti",
+                "Pancetta",
+                "Eggs",
+                "Parmesan cheese",
+                "Black pepper"
+            ]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "procedure": "Marinate chicken in yogurt and spices. Grill or pan-fry. Cook onions, tomatoes, and spices for sauce. Add cream and chicken. Simmer and serve with rice.",
+            "taste": "Spicy and creamy",
+            "duration": "50 minutes",
+            "cuisine_type": "Indian",
+            "ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Cream"
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "procedure": "Cook sushi rice and season with vinegar. Place seaweed on a mat. Add rice, fillings (e.g., fish, cucumber). Roll tightly, slice, and serve.",
+            "taste": "Fresh and umami",
+            "duration": "40 minutes",
+            "cuisine_type": "Japanese",
+            "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Seaweed",
+                "Fish",
+                "Cucumber"
+            ]
+        },
+        {
+            "name": "Tacos",
+            "procedure": "Prepare fillings like seasoned meat, lettuce, and cheese. Warm tortillas. Assemble with toppings and serve.",
+            "taste": "Savory and customizable",
+            "duration": "30 minutes",
+            "cuisine_type": "Mexican",
+            "ingredients": [
+                "Tortillas",
+                "Meat",
+                "Lettuce",
+                "Cheese",
+                "Salsa"
+            ]
+        },
+        {
+            "name": "French Onion Soup",
+            "procedure": "Caramelize onions in butter. Add beef broth, thyme, and wine. Simmer. Serve with toasted bread and melted cheese on top.",
+            "taste": "Rich and savory",
+            "duration": "1 hour",
+            "cuisine_type": "French",
+            "ingredients": [
+                "Onions",
+                "Butter",
+                "Beef broth",
+                "Thyme",
+                "Wine",
+                "Bread",
+                "Cheese"
+            ]
+        }
+    ],
+    "items": []
+}
