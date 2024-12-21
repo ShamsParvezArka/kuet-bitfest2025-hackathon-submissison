@@ -6,11 +6,12 @@ image_path_2 = 'img2.jpg' # Replace with the actual path to your second image
 
 
 #Choose a Gemini model.
-model = genai.GenerativeModel(model_name="gemini-1.5-pro")
+
 
 prompt = "Select a desh Based on the mood of the user and available item list  and select the recipe from the image given"
 def create_llm(api_key):
     genai.configure(api_key)
+    model = genai.GenerativeModel(model_name="gemini-1.5-pro")
     
 def take_input(available_item_list,image_list:list):
     choice = input("what kind of desh you wanna eat today: ")
