@@ -1,8 +1,8 @@
 import os
 import google.generativeai as genai
 
-image_path_1 = 'img1.jpg'  # Replace with the actual path to your first image
-image_path_2 = 'img2.jpg' # Replace with the actual path to your second image
+# image_path_1 = 'img1.jpg'  # Replace with the actual path to your first image
+# image_path_2 = 'img2.jpg' # Replace with the actual path to your second image
 
 
 #Choose a Gemini model.
