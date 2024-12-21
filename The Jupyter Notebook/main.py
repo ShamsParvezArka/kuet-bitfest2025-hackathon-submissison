@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from datasets import load_dataset
 
-model_name = "google/mt5-large"
+model_name = "google/mt5-small"
 tokenizer = MT5Tokenizer.from_pretrained("google/mt5-small")
 
 
