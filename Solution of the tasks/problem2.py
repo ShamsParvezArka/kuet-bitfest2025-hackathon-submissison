@@ -15,5 +15,3 @@ def take_input(available_item_list,image_list:list):
     
     response = model.generate_content([prompt,available_item_list, image_list, choice])
     print(response.text)
-
-take_input(["fruit","sugger",""],["img2.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg"])
